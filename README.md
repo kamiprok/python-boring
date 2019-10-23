@@ -2,4 +2,4 @@
 
 https://automatetheboringstuff.com/
 
-Apps following up the course
+Apps following up 'Automate the boring stuff' course
