@@ -4,11 +4,11 @@
 
 from twilio.rest import Client
 
-accountSID = 'ACff5a0ca4da421e2bfa1e29be66563f3c'
-authToken = 'd69e018ddf1ad64454d9a52b364edffa'
+accountSID = 'accountSID'
+authToken = 'authToken'
 
-myTwilioNumber = '+48799449202'
-myCellPhone = '+48791497598'
+myTwilioNumber = 'myTwilioNumber'
+myCellPhone = 'myCellPhone'
 
 
 def textmyself(message):
